@@ -7,3 +7,4 @@
 -input() lets user type in a value
 -len() takes a string value and returns an interger value of the string's length
 -int(), str(), flaoat() convert value's data type. 
+.
