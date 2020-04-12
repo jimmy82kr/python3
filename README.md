@@ -21,7 +21,7 @@ The value 0,0.0, and empty strings are condiered to be falsey values. When used 
 \
 \
 -When the execution reaches the end of a while statement's block, it jumps back to the start to recheck the conditon. \
--Presss Ctrl + c to interrupt an infite loop \ 
+-Presss Ctrl + c to interrupt an infite loop. \ 
 -A break statement causes the execution to immediately leave the loop, without re-checking the conditon. \
--A continue statement causes the execution to immediate;y jump back to the start of the loop and re-check the conditon \
+-A continue statement causes the execution to immediate;y jump back to the start of the loop and re-check the conditon. \
 
