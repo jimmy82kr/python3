@@ -25,3 +25,6 @@ The value 0,0.0, and empty strings are condiered to be falsey values. When used 
 -A break statement causes the execution to immediately leave the loop, without re-checking the conditon. \
 -A continue statement causes the execution to immediate;y jump back to the start of the loop and re-check the conditon. \
 
+-for loops will loop a specific number of times.\
+-the range() function called with one, two, or three arguments.\
+-break and continue can be used in for loops.\
